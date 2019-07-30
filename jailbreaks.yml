@@ -34,11 +34,11 @@ jailbreaks:
   - Linux
   caveats: > 
     Semi-Untethered Only. Follow the Cydia Impactor method of installing
-    the Jailbreak. Support for A12 (unlike unc0ver). Sileo installed by default (not Cydia).
+    the Jailbreak. Sileo installed by default (not Cydia).
   
 - jailbroken: true
   name: unc0ver
-  url: https://www.redmondpie.com/jailbreak-ios-12-12.1.2-12.1.2-beta-3-with-unc0ver-and-install-cydia-heres-how-tutorial/
+  url: https://github.com/pwn20wndstuff/Undecimus/releases
   firmwares:
     start: 12.0
     end: 12.1.2
@@ -47,8 +47,8 @@ jailbreaks:
   - macOS
   - Linux
   caveats: > 
-    Currently A12 devices like iPhone XR, XS and XS Max
-    are not supported. unc0ver includes Cydia by default.
+    Semi-Untethered Only. Follow the Cydia Impactor method of installing
+    the Jailbreak. Cydia installed by default (not Sileo).
   
   
 - jailbroken: true
